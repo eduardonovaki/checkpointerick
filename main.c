@@ -22,6 +22,8 @@ int main() {
 
     int n1 = 9, n2 = 4, subt;
 
+    subt = n1 - n2;
+
     return 0;
 }
 
