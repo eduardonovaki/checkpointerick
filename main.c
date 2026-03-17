@@ -24,6 +24,8 @@ int main() {
 
     subt = n1 - n2;
 
+    printf("O resultado da subtração é ", subt);
+
     return 0;
 }
 
