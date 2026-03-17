@@ -12,7 +12,7 @@ int main() [
     printf('Reis'); //Pedro (ou laboratorios fiap)
     printf("Gabriel"); //Simon(No GitHub)
     printf("Mariana");
-    printf("\n Sala CCPH");
+    printf("\n Sala CCPH"); //Aline
  return = 0;
 ]
 
