@@ -6,11 +6,13 @@
 // código
 
 int main() {
-    printf('');
+    printf('ponto'); //Aline 
    printf('oi')
     printf('seja bem vindo');
     return = 0;
 }
+
+
 
 
 
