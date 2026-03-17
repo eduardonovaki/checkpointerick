@@ -20,6 +20,8 @@ int main() {
 
     printf("A soma de %d + %d eh: %d\n", a, b, soma);
 
+    int n1 = 9, n2 = 4, subt;
+
     return 0;
 }
 
