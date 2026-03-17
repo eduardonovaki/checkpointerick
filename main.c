@@ -8,11 +8,12 @@ int main() {
 
     printf("Aline\n"); 
     printf("Eduardo\n");
-    printf("Pedro\n");
-    printf("Reis\n");
+    printf("Pedro\n"); //Pedro
+    printf("Reis\n"); //Pedro
     printf("Gabriel\n");
     printf("Mariana\n");
     printf("sala 1CCPH\n");
+    printf('aula de C'\n'); //Pedro
 
     int a = 5, b = 10, soma;
 
