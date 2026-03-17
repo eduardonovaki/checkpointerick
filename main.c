@@ -5,8 +5,12 @@
 
 // código
 
-int main() [
+int main() {
     printf('');
-   printf('seja bem vindo');
+   printf('oi')
+    printf('seja bem vindo');
     return = 0;
-]
+}
+
+
+
