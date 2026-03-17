@@ -1,16 +1,17 @@
 // biblioteca
 
-#include<studio.h> // Gabriel Siqueira
+#include<stdio.h> // Gabriel Siqueira
  
 
 // código
 
-int main() {
+int main() [
     printf('ponto'); //Aline 
-   printf('oi')
+    printf('oi');
     printf('seja bem vindo');
-    return = 0;
-}
+    printf('santosssssssssss'); // pedro
+return = 0;
+]
 
 
 
