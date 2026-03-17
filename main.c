@@ -1,11 +1,22 @@
 // biblioteca
 
-#include<studio.h> // Gabriel Siqueira
+#include<stdio.h> // Gabriel Siqueira
  
 
 // código
 
 int main() [
-    printf('');
+    printf('Aline'); //Aline 
+   printf('Erick');
+    printf('Pedro');
+    printf("Gabriel"); //Simon(No GitHub)
+    printf("Mariana");
     return = 0;
 ]
+
+
+
+
+
+
+
