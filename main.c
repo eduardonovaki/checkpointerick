@@ -8,7 +8,7 @@
 int main() {
     printf('ponto'); //Aline 
    printf('oi')
-    printf('seja bem vindo');
+    printf('seja bem eaid');
     return = 0;
 }
 
