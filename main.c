@@ -12,10 +12,10 @@ int main() {
     printf("Reis\n"); //Pedro
     printf("Gabriel\n");
     printf("Mariana\n");
-    printf("sala 1CCPH\n");
+    printf("sala 1CCPH\n"); //Aline
     printf('aula de C'\n'); //Pedro
 
-    int a = 5, b = 10, soma;
+    int a = 5, b = 10, soma; //Aline
 
     soma = a + b;
 
